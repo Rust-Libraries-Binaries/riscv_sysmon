@@ -1,0 +1,19 @@
+# Binaries
+/target/
+/**/*.rs.bk
+
+# Rust specific
+*.rs.bk
+Cargo.lock
+
+# VS Code
+.vscode/
+
+# Other IDEs
+.idea/
+
+# Logs
+*.log
+
+# Git settings
+*.swp

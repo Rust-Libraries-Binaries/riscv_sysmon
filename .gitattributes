@@ -1,0 +1,6 @@
+# Set the primary language for GitHub linguist
+*.rs linguist-language=Rust
+
+# Ignore common build output files and directories
+target/* linguist-vendored
+Cargo.lock linguist-vendored

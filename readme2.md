@@ -21,27 +21,6 @@ Run it alongside applications you’re testing on a RISC-V SBC to see their CPU 
 Experiment with performance tuning by watching how different settings or optimizations affect system metrics.
 Identify resource bottlenecks when using the board in practical scenarios, such as for IoT, lightweight server tasks, or application prototyping.
 
-## Some suitable RISC-V SBC Board for Experimentation
-For a RISC-V SBC that runs Linux and is well-suited to experiments with riscv_sysmon, here are a few solid options:
-
-## SiFive HiFive Unmatched:
-
-OS: Runs standard Linux distributions (e.g., Ubuntu, Fedora).
-Specs: Quad-core RISC-V processor, 8GB of RAM, PCIe slot, and various peripherals.
-Use Case: Great for development and prototyping as it’s relatively high-performance among RISC-V boards. Ideal if you need a desktop-like environment for RISC-V.
-
-## StarFive VisionFive:
-
-OS: Runs Debian-based Linux (e.g., customized Debian builds).
-Specs: Dual-core CPU, 8GB of RAM, M.2 slot for storage.
-Use Case: Affordable option with good software support, suitable for general-purpose tasks and lightweight application testing.
-
-## Allwinner D1 Boards (like Nezha D1)
-
-OS: Runs Debian-based distributions, including some that are community-supported.
-Specs: Single-core RISC-V CPU, usually with around 1GB RAM.
-Use Case: Affordable entry point, well-suited to IoT or simple system tasks on RISC-V. This is great for light monitoring and performance testing without the need for high specs.
-
 ## Getting Started
 Choose a Board: The SiFive HiFive Unmatched and StarFive VisionFive are ideal choices for exploring RISC-V with Linux, but any RISC-V board capable of running Linux will work.
 

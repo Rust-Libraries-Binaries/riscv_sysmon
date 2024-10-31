@@ -1,6 +1,6 @@
 [package]
 name = "riscv_sysmon"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Ben Santora bensatlantik@gmail.com"]
 description = "System monitoring tool for RISC-V Linux SBCs, providing insights into CPU, memory, and system health."

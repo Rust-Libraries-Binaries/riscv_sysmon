@@ -1,4 +1,4 @@
-# riscv_sysmon
+# riscv_sysmon (binary)
 
 **riscv_sysmon** is a system monitoring tool for Linux-based RISC-V single-board computers (SBCs). Written in Rust, it provides real-time metrics on CPU usage, memory statistics, and system health, tailored for RISC-V Linux environments.
 

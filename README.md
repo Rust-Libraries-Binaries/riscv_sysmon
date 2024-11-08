@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 # riscv_sysmon (binary)
 
 **riscv_sysmon** is a system monitoring tool for Linux-based RISC-V single-board computers (SBCs). Written in Rust, it provides real-time metrics on CPU usage, memory statistics, and system health, tailored for RISC-V Linux environments.
@@ -38,4 +42,4 @@ riscv_sysmon --interval 2
 This project is licensed under the MIT License
 
 ## Author
-Ben Santora (<bensatlantik@gmail.com>)
+Ben Santora 
